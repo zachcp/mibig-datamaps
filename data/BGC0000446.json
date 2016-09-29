@@ -1,0 +1,31 @@
+{
+    "general_params": {
+        "compounds": [
+            {
+                "database_deposited": true, 
+                "pubchem_id": 128363, 
+                "databases_deposited": [
+                    "PubChem"
+                ], 
+                "compound": "tilivalline"
+            }
+        ], 
+        "loci": {
+            "nucl_acc": [
+                {
+                    "end_coord": -1, 
+                    "Accession": "HG425356", 
+                    "start_coord": -1
+                }
+            ]
+        }, 
+        "mibig_accession": "BGC0000446", 
+        "publications": [
+            "25157164"
+        ], 
+        "minimal": true, 
+        "biosyn_class": [
+            "NRP"
+        ]
+    }
+}

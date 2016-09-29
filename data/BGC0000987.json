@@ -1,0 +1,37 @@
+{
+    "general_params": {
+        "compounds": [
+            {
+                "database_deposited": true, 
+                "pubchem_id": 456858, 
+                "databases_deposited": [
+                    "PubChem"
+                ], 
+                "compound": "echinocandin B"
+            }
+        ], 
+        "loci": {
+            "nucl_acc": [
+                {
+                    "end_coord": 78856, 
+                    "Accession": "JX421684", 
+                    "start_coord": 25565
+                }
+            ]
+        }, 
+        "mibig_accession": "BGC0000987", 
+        "publications": [
+            "22998630"
+        ], 
+        "Polyketide": {
+            "pks_subclass": [
+                "Type I"
+            ]
+        }, 
+        "minimal": true, 
+        "biosyn_class": [
+            "NRP", 
+            "Polyketide"
+        ]
+    }
+}

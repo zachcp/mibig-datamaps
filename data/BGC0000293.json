@@ -1,0 +1,26 @@
+{
+    "general_params": {
+        "compounds": [
+            {
+                "compound": "acetylaszonalenin"
+            }
+        ], 
+        "loci": {
+            "nucl_acc": [
+                {
+                    "end_coord": 2441151, 
+                    "Accession": "DS027698", 
+                    "start_coord": 2428387
+                }
+            ]
+        }, 
+        "mibig_accession": "BGC0000293", 
+        "publications": [
+            "19001367"
+        ], 
+        "minimal": true, 
+        "biosyn_class": [
+            "NRP"
+        ]
+    }
+}
