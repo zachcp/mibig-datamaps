@@ -5,6 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [datamaps "0.1.1-SNAPSHOT"]
+                 [org.clojure/data.csv "0.1.4"]
                  [cheshire "5.7.1"]]
   :main ^:skip-aot mibig-datamaps.core
   :target-path "target/%s"
